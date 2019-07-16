@@ -4,7 +4,7 @@ unity初学者教程_Ruby的冒险,该内容为bigbao所实现代码
 官方教程地址如下(仅有英文版):https://learn.unity.com/project/ruby-s-2d-rpg?language=en
 
 
-建议: unity版本 2018.3 以上
+我使用的unity版本 2019.2.0b
 完整项目资源:
 
 这份教程你将学习到:
