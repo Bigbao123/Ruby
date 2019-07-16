@@ -1,5 +1,6 @@
 # Ruby
-unity初学者教程_Ruby的冒险
+unity初学者教程_Ruby的冒险,该内容为bigbao所实现代码
+
 官方教程地址如下(仅有英文版):https://learn.unity.com/project/ruby-s-2d-rpg?language=en
 
 
@@ -15,5 +16,6 @@ unity初学者教程_Ruby的冒险
 
 如何使静态精灵适应动画精灵
 
+点击play!
+(https://github.com/Bigbao123/Ruby/blob/master/iamge/play.png)
 
-Ruby/iamge/play.png
