@@ -17,5 +17,5 @@ unity初学者教程_Ruby的冒险,该内容为bigbao所实现代码
 如何使静态精灵适应动画精灵
 
 点击play!
-(https://github.com/Bigbao123/Ruby/blob/master/iamge/play.png)
+![Image](https://github.com/Bigbao123/Ruby/blob/master/iamge/play.png)
 
